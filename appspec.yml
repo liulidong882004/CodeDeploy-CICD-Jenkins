@@ -1,5 +1,0 @@
-version: 0.0
-os: linux
-files:
-  - source: /index.php
-    destination: /usr/share/nginx/html/
